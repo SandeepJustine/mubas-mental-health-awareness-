@@ -4,6 +4,12 @@
 "My-Brain" offers a community aspect, allowing users to connect with others who may be facing similar challenges. It provides a safe space for sharing experiences and seeking support. The app include tools for setting and tracking mental health goals, meditation and relaxation exercises, offline voice based chat bot, and even crisis intervention features for immediate help in times of distress.
 
 Ultimately, "My-Brain" is a comprehensive app that encourages mental health awareness, self-reflection, and connection with others in an effort to promote overall well-being and reduce the stigma surrounding mental health.
+<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+    <p> I've developed this Application using Java and XML for android and Firebase as a databse and authentication service provider</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Android-007396?style=for-the-badge&logo=Android&logoColor=white" alt="Java" />
+</div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 My Brain</h2>
