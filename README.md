@@ -7,15 +7,53 @@ Ultimately, "My-Brain" is a comprehensive app that encourages mental health awar
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 My Brain</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<p> Below is a lost of screen shots of the app, showing some of the key festures </p>
 <div align="center">
-    <img src="Screeshots/AI.png"/>
-  <a href="https://linktr.ee/SandeepJustin">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+    <img src="Screeshots/home5.png"/>
+  <a href="#">
+    <img src="Screeshots/login.png"/>
   </a>
-<a href="https://github.com/Sandeep-sketchy/Sandeep-sketchy" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Sandeep-sketchy&style=for-the-badge" alt="Profile views" />
+  <a href="#">
+    <img src="Screeshots/onbaordign.png"/>
+  </a>
+  <a href="#">
+    <img src="Screeshots/onboarding2.png"/>
+  </a>
+    <a href="#">
+    <img src="Screeshots/onboarding3.png"/>
+  </a>
+  <a href="#">
+    <img src="Screeshots/home1.png"/>
+  </a>
+  <a href="#">
+    <img src="Screeshots/home2.png"/>
+  </a>
+<a href="#">
+    <img src="Screeshots/home3.png"/>
+  </a>
+<a href="#">
+    <img src="Screeshots/home4.png"/>
+  </a>
+<a href="#">
+    <img src="Screeshots/counsilors page.png"/>
+  </a>
+ <a href="#">
+    <img src="Screeshots/chat.png"/>
+  </a>
+<a href="#">
+    <img src="Screeshots/Community chat.png"/>
+  </a>
+ <a href="#">
+    <img src="Screeshots/games1.png"/>
+  </a>
+ <a href="#">
+    <img src="Screeshots/games11.png"/>
+  </a>
+ <a href="#">
+    <img src="Screeshots/mood1.png"/>
+  </a>
+ <a href="#">
+    <img src="Screeshots/mood2.png"/>
+  </a>
 </div>
 
