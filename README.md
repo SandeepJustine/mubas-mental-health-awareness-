@@ -9,7 +9,7 @@ Ultimately, "My-Brain" is a comprehensive app that encourages mental health awar
 <h2 align="center" class="section-heading">🌐 My Brain</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
-    <img src="https://github.com/Sandeep-sketchy/mubas-mental-health-awareness-/blob/0fbcb0352d6a608b027c573214302b51434b9fe2/Screeshots/AI.png alt="AI1"/>
+    <img src="Screeshots/AI.png"/>
   <a href="https://linktr.ee/SandeepJustin">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
