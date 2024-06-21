@@ -14,10 +14,9 @@ Ultimately, "My-Brain" is a comprehensive app that encourages mental health awar
 <h2 align="center" class="section-heading">💻 Download the App Here</h2>
 <div align="center">
 </a>
-  <a href=" https://appho.st/d/QAaoC2Zr">
-    <img src="https://img.shields.io/badge/Android-007396?style=for-the-badge&logo=Android&logoColor=white" alt="Java" />
-      <P href="https://appho.st/d/QAaoC2Zr">My Brain V.1</P>
+  <a href="https://appho.st/d/QAaoC2Zr">My Brain V.1
   </a>
+  <img src="https://img.shields.io/badge/Android-007396?style=for-the-badge&logo=Android&logoColor=white" alt="Java" />
 </div>
     
 <div align="center">
